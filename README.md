@@ -1,8 +1,26 @@
-- [交流论坛](交流论坛.md)
-- [交通](交通.md)
-- [宿舍](宿舍.md)
-- [常用网站](常用网站.md)
-- [简介](简介.md)
-- [综测](综测.md)
-- [运动场](运动场.md)
-- [食堂](食堂.md)
+
+
+# 简介
+
+:goat:欢迎来到云南大学校园指南,本项目旨在给新生指路
+
+## 使用方法
+
+:ear:点击侧边栏,查看你感兴趣的内容
+
+
+
+
+
+## 有问题or有建议
+
+:hamburger:[期待你的声音](https://support.qq.com/product/431685)
+
+:dash:[GitHub_issue](https://github.com/yangstar23/Docusaurus_web/issues)
+
+## 为本项目出力
+
+:gift:可以帮我们宣传
+
+:egg:也可以投稿至邮箱:postman@yangstar.top
+
